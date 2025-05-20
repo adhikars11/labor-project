@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Combined script: Worker–Entry Curves under Following Scenarios
 
